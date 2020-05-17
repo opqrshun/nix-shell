@@ -35,9 +35,6 @@ let
     shellcheck
     lazygit
     lazydocker
-  ];
-
-  opstools=with pkgs; [
     docker
     docker-compose
   ];
@@ -49,7 +46,6 @@ pkgs.mkShell {
     packages
     language
     devtools
-    opstools
   ];
 
   shellHook =
