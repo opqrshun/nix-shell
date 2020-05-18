@@ -5,11 +5,11 @@ let
   packages=with pkgs; [
     bat
     cloc
+    exa
     fd
     fzf
     git
     htop
-    lsd
     neofetch
     nkf
     neovim
