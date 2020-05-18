@@ -2,6 +2,7 @@
 
 
 ### Install nix before start nix-shell
+https://nixos.org/nix/
 ```
 # multi user 
 sh <(curl https://nixos.org/nix/install) --daemon
