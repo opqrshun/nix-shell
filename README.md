@@ -14,6 +14,6 @@ curl https://raw.githubusercontent.com/ttaki/dotfiles-shell/master/sample/setup.
 ### memo
 ```
 # install nix
-# mult user 
+# multi user 
 sh <(curl https://nixos.org/nix/install) --daemon
 ```
