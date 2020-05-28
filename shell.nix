@@ -4,6 +4,7 @@ let
 
   packages=with pkgs; [
     bat
+    broot
     cloc
     exa
     fd
