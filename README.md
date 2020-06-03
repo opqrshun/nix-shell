@@ -10,7 +10,8 @@ sh <(curl https://nixos.org/nix/install) --daemon
 
 ### Start nix-shell
 ```
-nix-shell
+wget https://raw.githubusercontent.com/ttaki/nix-shell/master/shell.nix
+nix-shell shell.nix
 ```
 
 ### If there is no dotfiles
