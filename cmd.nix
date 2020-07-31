@@ -31,6 +31,7 @@ let
     shellcheck
     lazygit
     lazydocker
+    mariadb
   ];
 
 in
