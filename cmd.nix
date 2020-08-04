@@ -31,7 +31,7 @@ let
     shellcheck
     lazygit
     lazydocker
-    mariadb
+    mariadb-client
   ];
 
 in
