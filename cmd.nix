@@ -32,6 +32,7 @@ let
     lazygit
     lazydocker
     mariadb-client
+    redis
   ];
 
 in
