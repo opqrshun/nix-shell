@@ -22,10 +22,12 @@ let
     tig
     tldr
     zsh
+    wipe
   ];
 
   language=with pkgs; [
   ];
+  
 
   devtools=with pkgs; [
     shellcheck
