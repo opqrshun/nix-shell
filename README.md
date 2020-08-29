@@ -6,7 +6,7 @@ https://nixos.org/nix/
 ```
 sudo curl -L https://nixos.org/nix/install | sh
 
-# multi user 
+#if multi user 
 sh <(curl https://nixos.org/nix/install) --daemon
 ```
 
